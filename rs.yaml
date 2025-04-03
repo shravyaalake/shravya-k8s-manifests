@@ -4,7 +4,7 @@ metadata:
   name: cart-page-rs
   namespace: shravya-ns
 spec:
-  replicas: 3
+  replicas: 4
   selector:
     matchLabels:
       web: cart
